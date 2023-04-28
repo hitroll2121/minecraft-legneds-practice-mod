@@ -5,7 +5,7 @@ NOTE: land is not actually flat
 
 add this to your minecraft legneds folder
 
-if your useing gamepass you can find this by going into the xbox app click on the 3 dots - manage - files - browse - then find the folder called Minecraft Legends - Windows and put the zip folder in there and unzip it then run the install.exe
+if your useing gamepass you can find this by going into the xbox app click on the 3 dots - manage - files - browse - then find the folder called Minecraft Legends - Windows and put the zip folder in there and unzip it then run the install.bat
 
 
 if your useing steam you can find this by going into the xbox app click on the gear - properties -  local files - browse - put the zip folder in there and unzip it then run the install.bat 
