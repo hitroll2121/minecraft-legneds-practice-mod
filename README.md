@@ -11,7 +11,7 @@ if your useing steam you can find this by going into the xbox app click on the g
 
 The folder your adding this to should only have 1 file called Conetent (there will be more if you have Hidden items on)
 
-NOTE: make sure the exefile is in a folder that is in the MCL folder no subfolders or it will not work 
+NOTE: make sure the exe file is in a folder that is in the MCL folder no subfolders or it will not work 
 
 
 NOTE: steam is untested it should work unless they changed around the file structure
