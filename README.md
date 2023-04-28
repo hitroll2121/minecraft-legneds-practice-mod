@@ -1,6 +1,7 @@
 # minecraft-legneds-practice-mod
-a mod that lets gives you a practice mod with no piglins and infinite recourses 
+a mod that lets gives you a practice mode called faltlands with no piglins and infinite recourses 
 
+NOTE: land is not actually flat
 
 add this to your minecraft legneds folder
 
