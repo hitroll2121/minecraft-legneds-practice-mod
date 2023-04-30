@@ -1,7 +1,11 @@
 # minecraft-legneds-practice-mod
 a mod that lets gives you a practice mode called flatlands with no piglins and infinite recourses 
 
+this is made for the pvp mode not campain mode
+
 NOTE: land is not actually flat
+
+Install instructions:
 
 add this to your minecraft legneds folder
 
