@@ -20,3 +20,6 @@ NOTE: make sure the exe file is in a folder that is in the MCL folder no subfold
 
 
 NOTE: steam is untested it should work unless they changed around the file structure
+
+
+if you need help ping hiii#7280 in this disocrd sever https://discord.gg/e5vks6NU7G 
